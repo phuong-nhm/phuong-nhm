@@ -41,7 +41,7 @@ Kỹ thuật phần mềm · Đang tìm kiếm cơ hội trong ngành IT
 
 <p align="left">
   <img height="150" src="https://github-readme-stats-orcin-six-80.vercel.app/api?username=phuong-nhm&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" alt="GitHub Stats"/>
-<img height="150" src="https://github-readme-stats-orcin-six-80.vercel.app/api/top-langs/?username=phuong-nhm&hide=python,c,c++&layout=compact&hide_title=true&hide_border=true&theme=graywhite" alt="Top Languages"/>
+<img height="150" src="https://github-readme-stats-orcin-six-80.vercel.app/api/top-langs/?username=phuong-nhm&hide=qml,javascript&layout=compact&hide_title=true&hide_border=true&theme=graywhite" alt="Top Languages"/>
 </p>
 
 <br/>
